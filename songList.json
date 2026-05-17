@@ -1,72 +1,303 @@
 [
-    {
-        "id": 1,
-        "anime": "0-saiji Start Dash Monogatari Season 2 - Ending 1",
-        "name": "\"Beyond the Trajectory\" by Chata",
-        "video": "https://eudist.animemusicquiz.com/5u2mhk.webm",
-        "mp3": null
-    },
-    {
-        "id": 2,
-        "anime": "1-punkan dake Furete mo Ii yo... Share House no Himitsu Rule. - Ending 1",
-        "name": "\"Session Sadame Night\" by Dai Takanashi",
-        "video": "https://eudist.animemusicquiz.com/f23gq2.webm",
-        "mp3": "https://eudist.animemusicquiz.com/ne5vos.mp3"
-    },
-    {
-        "id": 3,
-        "anime": "A-Rank Party wo Ridatsu shita Ore wa, Moto Oshiego-tachi to Meikyuu Shinbu wo Mezasu. - Ending 1",
-        "name": "\"Treasure Chest\" by Yuki Tanaka",
-        "video": "https://eudist.animemusicquiz.com/agsvoz.webm",
-        "mp3": "https://eudist.animemusicquiz.com/i3vp9q.mp3"
-    },
-    {
-        "id": 4,
-        "anime": "Akuyaku Reijou Tensei Ojisan - Ending 1",
-        "name": "\"Matsuken Samba II\" by Kazuhiko Inoue, M・A・O",
-        "video": "https://eudist.animemusicquiz.com/e8q47f.webm",
-        "mp3": "https://eudist.animemusicquiz.com/dje0hr.mp3"
-    },
-    {
-        "id": 5,
-        "anime": "Amagami-san Chi no Enmusubi - Ending 2",
-        "name": "\"Kamisama no Iu Toori!\" by ≠ME",
-        "video": "https://eudist.animemusicquiz.com/p4etz1.webm",
-        "mp3": "https://eudist.animemusicquiz.com/wz8z3p.mp3"
-    },
-    {
-        "id": 6,
-        "anime": "Ameku Takao no Suiri Karte - Ending 1",
-        "name": "\"will be fine\" by Gospellers feat. Anly",
-        "video": "https://eudist.animemusicquiz.com/0spf2m.webm",
-        "mp3": "https://eudist.animemusicquiz.com/iagxs7.mp3"
-    },
-    {
-        "id": 7,
-        "anime": "Ao no Exorcist: Yosuga-hen - Ending 1",
-        "name": "\"Overlap\" by Shiyui",
-        "video": "https://eudist.animemusicquiz.com/3z1d8i.webm",
-        "mp3": "https://eudist.animemusicquiz.com/162vdv.mp3"
-    },
-    {
-        "id": 8,
-        "anime": "Ao no Hako - Ending 2",
-        "name": "\"Contrast\" by TOMOO",
-        "video": "https://eudist.animemusicquiz.com/qmcqk3.webm",
-        "mp3": "https://eudist.animemusicquiz.com/l2sgqo.mp3"
-    },
-    {
-        "id": 9,
-        "anime": "Ao no Miburo - Ending 2",
-        "name": "\"Fragment\" by osage",
-        "video": "https://eudist.animemusicquiz.com/8b8iva.webm",
-        "mp3": "https://eudist.animemusicquiz.com/0yt4lm.mp3"
-    },
-    {
-        "id": 10,
-        "anime": "Arafou Otoko no Isekai Tsuuhan - Ending 1",
-        "name": "\"Aicraft\" by Kiminone",
-        "video": "https://eudist.animemusicquiz.com/ohlrpc.webm",
-        "mp3": "https://eudist.animemusicquiz.com/74jbjn.mp3"
-    }
+  {
+    "id": 1,
+    "anime": "The SoulTaker - Opening 1",
+    "name": "\"SOULTAKER\" by JAM Project",
+    "video": "https://eudist.animemusicquiz.com/xjyen1.webm",
+    "mp3": null
+  },
+  {
+    "id": 2,
+    "anime": "Kidou Tenshi Angelic Layer - Opening 1",
+    "name": "\"Be My Angel\" by Atsuko Enomoto",
+    "video": "https://eudist.animemusicquiz.com/k48dc7.webm",
+    "mp3": null
+  },
+  {
+    "id": 3,
+    "anime": "Noir - Opening 1",
+    "name": "\"Coppelia no Hitsugi\" by ALI PROJECT",
+    "video": "https://eudist.animemusicquiz.com/jq3vf8.webm",
+    "mp3": null
+  },
+  {
+    "id": 4,
+    "anime": "Koutetsu Tenshi Kurumi 2 Shiki - Opening 1",
+    "name": "\"Kiss kara Hajimaru Miracle (2-shiki)\" by STEEL ANGELS",
+    "video": "https://eudist.animemusicquiz.com/ns1bv5.webm",
+    "mp3": null
+  },
+  {
+    "id": 5,
+    "anime": "Geneshaft - Opening 1",
+    "name": "\"SHAFT DRIVE\" by Akira Takasaki",
+    "video": "https://eudist.animemusicquiz.com/iu9m53.webm",
+    "mp3": null
+  },
+  {
+    "id": 6,
+    "anime": "Cosmo Warrior Zero Gaiden - Opening 1",
+    "name": "\"Jidai\" by Geminiart High Quality",
+    "video": "https://eudist.animemusicquiz.com/kc49v1.webm",
+    "mp3": null
+  },
+  {
+    "id": 7,
+    "anime": "Hanaukyo Maid-tai - Opening 1",
+    "name": "\"Hanaukyo Maid-tai no Uta\" by Hanaukyo Maid-tai",
+    "video": "https://eudist.animemusicquiz.com/hrnxg0.webm",
+    "mp3": null
+  },
+  {
+    "id": 8,
+    "anime": "Hajakyosei G Dangaioh - Opening 1",
+    "name": "\"Fighting chance\" by Go Takahashi",
+    "video": "https://eudist.animemusicquiz.com/116jdz.webm",
+    "mp3": null
+  },
+  {
+    "id": 9,
+    "anime": "Taiho Shichau zo Second Season - Opening 1",
+    "name": "\"Starting UP\" by Julia Mazda",
+    "video": "https://eudist.animemusicquiz.com/evzwxz.webm",
+    "mp3": null
+  },
+  {
+    "id": 10,
+    "anime": "Run=Dim - Opening 1",
+    "name": "\"Legend\" by LEGOLGEL",
+    "video": "https://eudist.animemusicquiz.com/nu9w24.webm",
+    "mp3": null
+  },
+  {
+    "id": 11,
+    "anime": "Alien Nine - Opening 1",
+    "name": "\"Flower Psychedelic~type YURI~\" by Juri Ihata",
+    "video": "https://eudist.animemusicquiz.com/twrs77.webm",
+    "mp3": null
+  },
+  {
+    "id": 12,
+    "anime": "Alien Nine - Opening 2",
+    "name": "\"Flower Psychedelic~type KUMI~\" by Kaori Shimizu",
+    "video": "https://eudist.animemusicquiz.com/eikgzf.webm",
+    "mp3": null
+  },
+  {
+    "id": 13,
+    "anime": "Alien Nine - Opening 3",
+    "name": "\"Flower Psychedelic~type KASUMI~\" by Noriko Shitaya",
+    "video": "https://eudist.animemusicquiz.com/oxm4w8.webm",
+    "mp3": null
+  },
+  {
+    "id": 14,
+    "anime": "Star Ocean EX - Opening 1",
+    "name": "\"To The Light\" by Amika Hattan",
+    "video": "https://eudist.animemusicquiz.com/vthcvo.webm",
+    "mp3": null
+  },
+  {
+    "id": 15,
+    "anime": "R.O.D: Read or Die - Opening 1",
+    "name": "\"R.O.D no Theme\" by Taku Iwasaki",
+    "video": "https://eudist.animemusicquiz.com/9ktl1f.webm",
+    "mp3": null
+  },
+  {
+    "id": 16,
+    "anime": "Galaxy Angel - Opening 1",
+    "name": "\"Galaxy★Bang! Bang!\" by Angel-tai",
+    "video": "https://eudist.animemusicquiz.com/e3t8gd.webm",
+    "mp3": null
+  },
+  {
+    "id": 17,
+    "anime": "Super GALS! Kotobuki Ran - Opening 1",
+    "name": "\"A☆I☆Tsu\" by dicot",
+    "video": "https://eudist.animemusicquiz.com/pxf0ek.webm",
+    "mp3": null
+  },
+  {
+    "id": 18,
+    "anime": "Mahou Senshi Louie - Opening 1",
+    "name": "\"Twinkle Trick\" by Ayano Okuda",
+    "video": "https://eudist.animemusicquiz.com/kjh6w2.webm",
+    "mp3": null
+  },
+  {
+    "id": 19,
+    "anime": "Ajimu: Kaigan Monogatari - Opening 1",
+    "name": "\"Futari no Prologue\" by Saeko Chiba",
+    "video": "https://eudist.animemusicquiz.com/he7ofc.webm",
+    "mp3": null
+  },
+  {
+    "id": 20,
+    "anime": "Shin Shirayuki-hime Densetsu Pretear - Opening 1",
+    "name": "\"White Destiny\" by Yoko Ishida",
+    "video": "https://eudist.animemusicquiz.com/u6c2z9.webm",
+    "mp3": null
+  },
+  {
+    "id": 21,
+    "anime": "Gakuen Senki Muryo - Opening 1",
+    "name": "\"TAKE\" by KAKO",
+    "video": "https://eudist.animemusicquiz.com/xky67b.webm",
+    "mp3": null
+  },
+  {
+    "id": 22,
+    "anime": "Project ARMS - Opening 1",
+    "name": "\"FreeBird\" by NewCinema Tokage",
+    "video": "https://eudist.animemusicquiz.com/mm47ky.webm",
+    "mp3": null
+  },
+  {
+    "id": 23,
+    "anime": "Project ARMS - Opening 2",
+    "name": "\"Breathe on me\" by New Cinema Tokage",
+    "video": "https://eudist.animemusicquiz.com/7kl49a.webm",
+    "mp3": null
+  },
+  {
+    "id": 24,
+    "anime": "Chance Triangle Session - Opening 1",
+    "name": "\"Pure Blue\" by Mayumi Iizuka・Atsuko Enomoto・Maria Yamamoto",
+    "video": "https://eudist.animemusicquiz.com/ozep70.webm",
+    "mp3": null
+  },
+  {
+    "id": 25,
+    "anime": "Sister Princess - Opening 1",
+    "name": "\"Love Destiny\" by Yui Horie",
+    "video": "https://eudist.animemusicquiz.com/gte0pe.webm",
+    "mp3": null
+  },
+  {
+    "id": 26,
+    "anime": "Figure 17 - Opening 1",
+    "name": "\"BOY\" by THE ALFEE",
+    "video": "https://eudist.animemusicquiz.com/sf3hoe.webm",
+    "mp3": null
+  },
+  {
+    "id": 27,
+    "anime": "Jungle wa Itsumo Hare Nochi Guu - Opening 1",
+    "name": "\"LOVE♥Tropicana\" by Sister MAYO",
+    "video": "https://eudist.animemusicquiz.com/c1dqss.webm",
+    "mp3": null
+  },
+  {
+    "id": 28,
+    "anime": "Comic Party - Opening 1",
+    "name": "\"Kimi no Mama de\" by Emi Motoda",
+    "video": "https://eudist.animemusicquiz.com/4bjwvx.webm",
+    "mp3": null
+  },
+  {
+    "id": 29,
+    "anime": "Zone of the Enders: Dolores, i - Opening 1",
+    "name": "\"ZONE OF THE ENDERS\" by LAZY",
+    "video": "https://eudist.animemusicquiz.com/bnc1v7.webm",
+    "mp3": null
+  },
+  {
+    "id": 30,
+    "anime": "Cosmic Baton Girl Comet-san☆ - Opening 1",
+    "name": "\"Kimi ni Smile\" by Nayu Niibori",
+    "video": "https://eudist.animemusicquiz.com/mqv3kp.webm",
+    "mp3": null
+  },
+  {
+    "id": 31,
+    "anime": "Cosmic Baton Girl Comet-san☆ - Opening 2",
+    "name": "\"Miracle Power ~Stardust Version~\" by Shizuka Nakayama",
+    "video": "https://eudist.animemusicquiz.com/h097on.webm",
+    "mp3": null
+  },
+  {
+    "id": 32,
+    "anime": "Dennou Boukenki Webdiver - Opening 1",
+    "name": "\"DIVER #2100\" by R.A.M.",
+    "video": "https://eudist.animemusicquiz.com/8242u8.webm",
+    "mp3": null
+  },
+  {
+    "id": 33,
+    "anime": "Dennou Boukenki Webdiver - Opening 2",
+    "name": "\"SO DIVE!\" by R.A.M.",
+    "video": "https://eudist.animemusicquiz.com/v4z92z.webm",
+    "mp3": null
+  },
+  {
+    "id": 34,
+    "anime": "PaRappa Rappa - Opening 1",
+    "name": "\"LOVE TOGETHER~PaRappa Rapper MIX~\" by NONA REEVES",
+    "video": "https://eudist.animemusicquiz.com/bvzw24.webm",
+    "mp3": null
+  },
+  {
+    "id": 35,
+    "anime": "PaRappa Rappa - Opening 2",
+    "name": "\"Attitude\" by Crystal Kay",
+    "video": "https://eudist.animemusicquiz.com/o9athj.webm",
+    "mp3": null
+  },
+  {
+    "id": 36,
+    "anime": "Digimon Tamers - Opening 1",
+    "name": "\"The Biggest Dreamer\" by Kouji Wada",
+    "video": "https://eudist.animemusicquiz.com/11r92o.webm",
+    "mp3": null
+  },
+  {
+    "id": 37,
+    "anime": "Dr. Rin ni Kiitemite! - Opening 1",
+    "name": "\"GO! GO! READY? GO?!\" by AiM",
+    "video": "https://eudist.animemusicquiz.com/zyc7hj.webm",
+    "mp3": null
+  },
+  {
+    "id": 38,
+    "anime": "Go! Go! Itsutsugo Land - Opening 1",
+    "name": "\"Ultra Mengo!!\" by pikapika",
+    "video": "https://eudist.animemusicquiz.com/93awo4.webm",
+    "mp3": null
+  },
+  {
+    "id": 39,
+    "anime": "Go! Go! Itsutsugo Land - Opening 2",
+    "name": "\"Nakama tte Ii jan!\" by EE JUMP featuring Sonin",
+    "video": "https://eudist.animemusicquiz.com/d2hmwy.webm",
+    "mp3": null
+  },
+  {
+    "id": 40,
+    "anime": "Gyouten Ningen Batsealer - Opening 1",
+    "name": "\"Let's Sail! Batsealer\" by Aya Nozawa",
+    "video": "https://eudist.animemusicquiz.com/xr7g6l.webm",
+    "mp3": null
+  },
+  {
+    "id": 41,
+    "anime": "Offside - Opening 1",
+    "name": "\"Daisuki na Shoes\" by Chieko Higuchi",
+    "video": "https://eudist.animemusicquiz.com/3iw637.webm",
+    "mp3": null
+  },
+  {
+    "id": 42,
+    "anime": "Pachislo Kizoku Gin - Opening 1",
+    "name": "\"Ajisai\" by SHUUBI",
+    "video": "https://eudist.animemusicquiz.com/nve9zy.webm",
+    "mp3": null
+  },
+  {
+    "id": 43,
+    "anime": "Medaka no Gakkou - Opening 1",
+    "name": "\"Wonderful!\" by Hiroka Nishizawa to Mori no Juunin-tachi",
+    "video": "https://eudist.animemusicquiz.com/q2v49w.webm",
+    "mp3": null
+  }
 ]
